@@ -1,2 +1,3 @@
 # Firebase_Database
 Learned how to perform CRUD operations using Firebase Realtime Database. Understood how backend systems store, retrieve, update, and delete user information. Gained practical experience in real-time data handling and database management. Learned how to export database records in JSON format and integrate backend services with frontend applications.
+https://console.firebase.google.com/project/trial1-17777/database/trial1-17777-default-rtdb/data?fb_gclid=CjwKCAiAncvMBhBEEiwA9GU_fn0Habdi6tFYq2305QsrNgMSmEXR--HKcniNusEcHu31QWc1AYcqDhoC2GIQAvD_BwE&fb_utm_campaign=Cloud-SS-DR-Firebase-FY26-global-gsem-1713590&fb_utm_content=text-ad&fb_utm_medium=cpc&fb_utm_source=google&fb_utm_term=KW_firebase%20studio
