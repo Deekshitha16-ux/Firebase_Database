@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>firebase database</h1>
+    <input placeholder="email" type="email" id="email"/>
+    <input placeholder="password" type="password" id="password"/>
+    <input placeholder="username" type="name" id="username"/>
+    <input placeholder="favorite_food" type="text" id="favorite_food"/><br>
+    <button onclick="save()"> submit </button>
+    <button onclick="update()"> update </button>
+     <button onclick="get()"> get </button>
+     <button onclick="remove()"> remove data </button>
+   
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
